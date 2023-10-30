@@ -1,0 +1,7 @@
+Vetores,Métricas,,,,,,
+Tempo,Duração do Risco,Vulnerabilidade ao Risco,Tempo de Percepção,SLA Acima de 99%?,Output,,Valores Normalizados
+,3,2,2,1,,,"92,23%"
+Sensibilidade,Pode ser Eliminado,Necessita de Apoio,,,,,
+,1,1,,,,,"55,63%"
+Amplitude,Gera Resíduos,Amplitude do Impacto,Possibilidade de ocorrência,,,,
+,6,5,2,,,,"23,22%"
